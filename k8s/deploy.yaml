@@ -6,7 +6,7 @@ metadata:
     app: trash-levels
     project: cicd-demo
     vender: rx-m
-  annotation:
+  annotations:
     argocd: rocks
 spec:
   replicas: 2
