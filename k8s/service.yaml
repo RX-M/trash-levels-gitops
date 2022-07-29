@@ -6,6 +6,7 @@ metadata:
     app: trash-levels
     project: cicd-demo
     vender: rx-m
+    requestor: Vikrant
 spec:
   selector:
     app: trash-levels
