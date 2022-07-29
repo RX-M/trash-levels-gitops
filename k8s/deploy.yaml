@@ -8,6 +8,7 @@ metadata:
     vender: rx-m
   annotations:
     argocd: rocks
+    motogp: the-champ-wins-again
 spec:
   replicas: 3
   selector:
